@@ -1,63 +1,74 @@
-# Hi there, I'm Braa 👋
+# Hi, I'm Braa 👋
 
 <a href="https://www.linkedin.com/in/braa-mohammed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:braamohamamed@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-### Full-Stack Developer specializing in building scalable SaaS applications from concept to deployment.
+### Full-Stack Developer. I build complete SaaS products solo — from schema to deployment.
 
-I'm a self-taught developer from Egypt with a passion for building user-centric products. With a background in Civil Engineering, I bring a structured, problem-solving approach to software development. I have 1.5 years of hands-on experience architecting and launching two complete SaaS applications: a B2B video outreach platform and a B2C productivity tool.
+In the past year: shipped a [Clay.com alternative in 7 days](https://github.com/BraaMohammed/bricks) that saves $350/month, built a [contact enrichment agent in 4 days](https://github.com/BraaMohammed/microwave-ai) on a SDK released the week before, and engineered a B2B video pipeline pushing 100–150 personalized videos per batch in under 10 minutes.
 
 **I'm currently seeking a full-time remote role where I can contribute to a product-driven team.**
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-| Frontend          | Backend & Authentication | Databases & Storage   | DevOps & Other       |
-| ----------------- | ------------------------ | --------------------- | -------------------- |
-| TypeScript        | Node.js                  | PostgreSQL (Supabase) | Git & GitHub         |
-| React             | Express.js               | MongoDB               | Vercel               |
-| Next.js (App R.)  | NextAuth.js              | Backblaze B2          | Coolify + VPS        |
-| Tailwind CSS      |                          |                       | Microservices Arch.  |
-| Zustand           |                          |                       |                      |
-| React Query       |                          |                       |                      |
-
----
-
-## 🚀 My Projects
-
-Here are the two main SaaS applications I've built from the ground up.
-
-### 1. Brospect - B2B Video Outreach SaaS
-A platform that helps B2B companies book more meetings through personalized video outreach and dynamic landing pages.
-
-**Architecture:** Full-stack Next.js application with a separate Express.js microservice for scalable, automated video generation.
-
-**Tech Stack:** Next.js, Express.js, PostgreSQL (Supabase), Backblaze B2, Tailwind CSS, NextAuth.js.
-
-[**Live App**](https://try.brospect.xyz) 
-
-### 2. Bee-Well - Personal Productivity SaaS
-A comprehensive tool for personal productivity featuring an advanced habit tracker with a custom analytics engine, a Notion-style block editor for notes, and an automated daily journal.
-
-**Architecture:** Full-stack Next.js monolith.
-
-**Tech Stack:** Next.js, MongoDB, NextAuth.js, Shadcn/UI, BlockNote.js, Vercel.
-
-[**Live App**](https://bee-well.vercel.app/)) 
+| Frontend | Backend | Databases & Storage | DevOps |
+| -------- | ------- | ------------------- | ------ |
+| Next.js & React | Node.js & Express.js | PostgreSQL (Supabase) | Vercel |
+| TypeScript | REST APIs & Microservices | MongoDB | Coolify + VPS |
+| Tailwind CSS | NextAuth.js | Backblaze B2 | Git & GitHub |
+| React Query & Zustand | AI (OpenAI / Ollama / Groq) | | |
+| | Puppeteer & Scraping | | |
 
 ---
 
-## 🌱 What I'm Exploring Next
+## 🚀 Projects
 
-I'm passionate about the intersection of AI and personal productivity. My next goal is to build an application centered around a proactive AI agent that has deep context on a user's notes, habits, and journals to provide truly personalized advice and assistance.
+### [Bricks](https://github.com/BraaMohammed/bricks) — Open-Source Data Enrichment Platform
+> Built in 7 days to replace a $350/month Clay.com subscription.
+
+Three enrichment engines in one codebase: Firecrawl web scraping, OpenAI/Ollama/Groq AI processing, and Puppeteer browser automation with stealth anti-detection. Includes a dual AI agent system where one agent writes outreach copy and a second role-plays as the prospect, rejecting weak messages until quality passes. Open-source, MIT licensed, local-first.
+
+---
+
+### [Microwave AI](https://github.com/BraaMohammed/microwave-ai) — Contact List Enrichment Agent
+> Built in 4 days on the Vercel Sandbox SDK released the same week (Jan 31, 2026).
+
+Chat-based agent built with Gemini, Supabase, and Next.js. Users upload a CSV, pick enrichment types, and the agent generates and executes real scraping code inside a secure sandbox — no human in the loop. Delivers a sales-ready contact list in minutes.
+
+---
+
+### [Open SaaS Board](https://github.com/BraaMohammed/open-saas-board) — Open-Source SaaS Analytics Dashboard
+> Stop juggling Stripe, Supabase, and spreadsheets.
+
+Unified dashboard that connects directly to your existing Stripe and Supabase setup. Tracks MRR, subscriptions, churn, and user growth in one place. Privacy-first: API keys never leave your browser. 5-minute setup, no migration required.
+
+---
+
+### [Brospect](https://try.brospect.xyz) — B2B Video Outreach SaaS
+> Personalized video landing pages at scale to increase reply rates.
+
+Microservices architecture: Next.js frontend + separate Express.js video generation service. Puppeteer-based pipeline processes 100–150 videos per batch in under 10 minutes (20–30s/video) using async job queues and VPS resource optimization.
+
+**Stack:** Next.js · Express.js · PostgreSQL (Supabase) · Backblaze B2 · NextAuth.js
+
+---
+
+### [Bee-Well](https://github.com/BraaMohammed/Bee-Well) — Productivity SaaS
+> Habit tracking, journaling, and notes — with an AI agent being added now.
+
+Advanced habit tracker with a custom analytics dashboard, Notion-style block editor (BlockNote.js), and daily journal. Currently building an AI agent that generates personalized insights from a user's habits, notes, and journal history.
+
+**Stack:** Next.js · MongoDB · Shadcn/UI · BlockNote.js · Vercel
 
 ---
 
 ## 📫 Get in Touch
 
-I'm always open to discussing new projects, creative ideas, or opportunities. Feel free to reach out!
-
--   **Email:** `braamohamamed@gmail.com`
--   **LinkedIn:** (https://www.linkedin.com/in/braa-mohammed/)
+- **Email:** `braamohamamed@gmail.com`
+- **LinkedIn:** [linkedin.com/in/braa-mohammed](https://www.linkedin.com/in/braa-mohammed/)
