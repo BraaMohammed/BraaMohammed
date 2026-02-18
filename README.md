@@ -9,7 +9,7 @@
 
 ### Full-Stack Developer. I build complete SaaS products solo — from schema to deployment.
 
-In the past year: shipped a [Clay.com alternative in 7 days](https://github.com/BraaMohammed/bricks) that saves $350/month, built a [contact enrichment agent in 4 days](https://github.com/BraaMohammed/microwave-ai) on a SDK released the week before, and engineered a B2B video pipeline pushing 100–150 personalized videos per batch in under 10 minutes.
+In the past year: shipped a [Clay.com alternative in 7 days](https://github.com/BraaMohammed/bricks) that saves $350/month, built a [contact enrichment AI Agent in 4 days](https://github.com/BraaMohammed/microwave-ai) on a SDK released the week before, and engineered a B2B video pipeline pushing 100–150 personalized videos per batch in under 10 minutes.
 
 **I'm currently seeking a full-time remote role where I can contribute to a product-driven team.**
 
@@ -17,13 +17,15 @@ In the past year: shipped a [Clay.com alternative in 7 days](https://github.com/
 
 ## 🛠️ Tech Stack
 
-| Frontend | Backend | Databases & Storage | DevOps |
-| -------- | ------- | ------------------- | ------ |
-| Next.js & React | Node.js & Express.js | PostgreSQL (Supabase) | Vercel |
-| TypeScript | REST APIs & Microservices | MongoDB | Coolify + VPS |
-| Tailwind CSS | NextAuth.js | Backblaze B2 | Git & GitHub |
-| React Query & Zustand | AI (OpenAI / Ollama / Groq) | | |
-| | Puppeteer & Scraping | | |
+| Frontend | Backend | Database & DevOps |
+| -------- | ------- | ----------------- |
+| Next.js & React.js | Node.js & Express.js | PostgreSQL (Supabase) |
+| TypeScript | REST APIs & Microservices | MongoDB |
+| Tailwind CSS | NextAuth.js | Backblaze B2 Storage |
+| React Query & Zustand | AI Agents & Agentic Workflows | Vercel & Serverless Architecture |
+| Streaming UI | Advanced Scraping (Puppeteer) | Remote Code Execution (RCE) |
+| Generative UI | | Coolify & Self-Managed Infrastructure |
+| | | Git & GitHub |
 
 ---
 
