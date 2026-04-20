@@ -9,7 +9,7 @@
 
 ### Full-Stack Developer. I build complete SaaS products solo — from schema to deployment.
 
-In the past year: shipped a [Clay.com alternative in 7 days](https://github.com/BraaMohammed/bricks) that saves $350/month, built a [contact enrichment AI Agent in 4 days](https://github.com/BraaMohammed/microwave-ai) on a SDK released the week before, and engineered a B2B video pipeline pushing 100–150 personalized videos per batch in under 10 minutes.
+In the past year: shipped a [Clay.com alternative in 7 days](https://github.com/BraaMohammed/bricks) that saves $350/month, built a [autonomous ai coding agent for a yc-backed company in 4 days](https://github.com/BraaMohammed/microwave-ai) on a SDK released the week before, and engineered a B2B video pipeline pushing 100–150 personalized videos per batch in under 10 minutes.
 
 **I'm currently seeking a full-time remote role where I can contribute to a product-driven team.**
 
